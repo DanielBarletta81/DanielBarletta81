@@ -1,29 +1,51 @@
-- 👋 Hi there, I'm Daniel
-# Daniel Barletta
-  Engineer‑first builder focused on calm, high‑performance web experiences and interactive systems.
+||| Daniel Barletta
 
-  **Now (Feb 2026)**
-  - Building **World of Tethys** and **Soma Living** (Next.js + headless CMS)
-  - Shipping interactive visualization tools for yoga, wellness, and maps
+Software Engineer building real-time, interactive systems and product-driven web applications.
 
-  **Pinned Work**
-  - World of Tethys → https://github.com/DanielBarletta81/world-of-tethys-next
-  - Soma Living → https://github.com/DanielBarletta81/Christie-Yoga-Site
+||| What I Do
 
-  **Open Source Log**
-  - PR #1: [link]
-  - PR #2: [link]
+- Build full-stack applications with React, Next.js, and API-driven architectures  
+- Design event-driven systems and real-time data pipelines  
+- Translate complex data into clear, user-facing experiences  
+- Work at the intersection of product, data, and interactive systems  
 
-  **Highlights**
-  - Interactive 3D/visualization components with a clinical, editorial UI sensibility
-  - Headless CMS + GraphQL pipelines with clean content models
-  - Performance‑first UI and build hygiene
+||| Current Focus
 
-  **Core Skills**
-  TypeScript · React/Next.js · Node.js · GraphQL · CSS/Tailwind · Python · SQL · AWS fundamentals
+- Real-time systems (WebSockets, event pipelines, live dashboards)
+- Creator and engagement-driven platforms (monetization, interaction, discovery)
+- Data visualization and telemetry (Tethys Systems Lab)
 
-  **Focus**
-  I care about clarity, performance, and craft—products that feel calm, deliberate, and fast.
+||| Selected Work
+
+- **MLB Live Event Pipeline Simulator**  
+  Real-time event ingestion → processing → WebSocket delivery → React dashboard  
+  → https://github.com/DanielBarletta81/mlb-live-event-pipeline
+
+- **World of Tethys Platform**  
+  Production Next.js application with dynamic content, maps, and interactive systems  
+  → https://github.com/DanielBarletta81/world-of-tethys-next
+
+- **Soma Living**  
+  Client-facing product with interactive UI and content systems  
+  → https://github.com/DanielBarletta81/Christie-Yoga-Site
+
+||| Technical Strengths
+
+- React / Next.js / TypeScript  
+- Node.js / APIs / WebSockets  
+- Event-driven architecture and async systems  
+- Data visualization and real-time UI  
+- AWS (S3, Lambda exposure), Vercel deployments  
+
+||| Approach
+
+I build systems that are:
+- **fast** (performance-first)
+- **clear** (clean, readable interfaces)
+- **interactive** (real-time feedback)
+- **product-driven** (focused on user outcomes)
+
+---
 <!---
 DanielBarletta81/DanielBarletta81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
