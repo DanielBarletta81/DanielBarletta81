@@ -17,9 +17,9 @@ Software Engineer building real-time, interactive systems and product-driven web
 
 |||  Selected Work
 
-- **MLB Live Event Pipeline Simulator**  
-  Real-time event ingestion → processing → WebSocket delivery → React dashboard  
-  → https://github.com/DanielBarletta81/mlb-live-event-pipeline
+- **Player Safety Dashboard**  
+Real-time event pipeline for player behavior monitoring → processing → WebSocket delivery → React dashboard  
+→ https://github.com/DanielBarletta81/playstation-player-safety
 
 - **World of Tethys Platform**  
   Production Next.js application with dynamic content, maps, and interactive systems  
