@@ -1,25 +1,22 @@
-|||  Daniel Barletta
+  Daniel Barletta
 
 Software Engineer building real-time, interactive systems and product-driven web applications.
 
-|||  What I Do
+ What I Do
 
 - Build full-stack applications with React, Next.js, and API-driven architectures  
 - Design event-driven systems and real-time data pipelines  
 - Translate complex data into clear, user-facing experiences  
 - Work at the intersection of product, data, and interactive systems  
 
-|||  Current Focus
+ Current Focus
 
 - Real-time systems (WebSockets, event pipelines, live dashboards)
 - Creator and engagement-driven platforms (monetization, interaction, discovery)
 - Data visualization and telemetry (Tethys Systems Lab)
 
-|||  Selected Work
+ Selected Work
 
-- **Player Safety Dashboard**  
-Real-time event pipeline for player behavior monitoring → processing → WebSocket delivery → React dashboard  
-→ https://github.com/DanielBarletta81/playstation-player-safety
 
 - **World of Tethys Platform**  
   Production Next.js application with dynamic content, maps, and interactive systems  
@@ -29,7 +26,7 @@ Real-time event pipeline for player behavior monitoring → processing → WebSo
   Client-facing product with interactive UI and content systems  
   → https://github.com/DanielBarletta81/Christie-Yoga-Site
 
-|||  Technical Strengths
+ Technical Strengths
 
 - React / Next.js / TypeScript  
 - Node.js / APIs / WebSockets  
@@ -37,7 +34,7 @@ Real-time event pipeline for player behavior monitoring → processing → WebSo
 - Data visualization and real-time UI  
 - AWS (S3, Lambda exposure), Vercel deployments  
 
-|||  Approach
+  Approach
 
 I build systems that are:
 - **fast** (performance-first)
