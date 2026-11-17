@@ -1,34 +1,34 @@
- Daniel Barletta
+# Daniel Barletta
 
-**Scientific researcher → software developer | Scientific data visualization, web applications & public-facing digital experiences**
+**Scientific research · software development · teaching and public communication**
 
-I build software that helps people explore complex information without losing sight of where the evidence came from.
+I build interactive web experiences that help people explore complex information and understand the evidence behind it.
 
-My background spans molecular biology, fisheries field research, laboratory analysis, science education, and full-stack web development. I have worked with ecological observations in the field and biological evidence in the lab; today I bring that perspective to interactive applications, data pipelines, and tools for scientists, educators, and the public.
+My background connects fisheries fieldwork and crew coordination, molecular biology research, laboratory quality control, tutoring, practical troubleshooting, and independent software development. I bring those experiences together in tools for research, education, and public understanding.
 
-I'm especially interested in the intersection of **scientific accuracy, accessible interface design, and clear communication**—including work in unfamiliar scientific domains where the first task is learning from subject-matter experts.
+## Start with the science
 
-## Selected projects
+| Project | Question and implementation | Evidence and current boundary |
+| --- | --- | --- |
+| [NOAA Signals Lab](https://github.com/DanielBarletta81/noaa-signals-lab) | How can a coastal observation remain traceable from its source to the screen? React, Express, parsing, UTC timestamps, and missing-data handling. | Public source. Improvements are in [draft PRs #2–#5](https://github.com/DanielBarletta81/noaa-signals-lab/pulls). The SQLite snapshot work is not merged or deployed; review the relevant branch for implementation and recorded checks. |
+| [Microsat Atlas](https://github.com/DanielBarletta81/microsat-atlas) | How does geography change the interpretation of population assignments? CSV/TSV input, SVG mapping, site composition, and tables. | Public source; prototype with synthetic demonstration samples. Its neighbor comparison is an exploratory heuristic, not a genetic significance test. |
+| [D.C. Barletta site source](https://github.com/DanielBarletta81/dcbarletta.comv1.1) | How can research, software, and creative work form a navigable professional story? Next.js routes, shared content, localization, and metadata. | Public source. The [career timeline is proposed in PR #2](https://github.com/DanielBarletta81/dcbarletta.comv1.1/pull/2); it is not yet merged or published. |
 
-| Project                                                                      | What it demonstrates                                                                                                                                          | Data and maturity                                                                                                                            |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [NOAA Signals Lab](https://github.com/DanielBarletta81/noaa-signals-lab)     | React + Express application for NOAA coastal water-temperature observations; strict parsing, UTC timestamps, missing-data accounting and explicit limitations | **Live public NOAA observations**; active engineering work. [Data-integrity PR](https://github.com/DanielBarletta81/noaa-signals-lab/pull/2) |
-| [Microsat Atlas](https://github.com/DanielBarletta81/microsat-atlas)         | Interactive population-genetics mapping with CSV/TSV input, geographic assignment views, spatial-neighbor comparisons, and accessible tabular alternatives    | **Synthetic demonstration samples**, grounded in published research; not an analysis of real sample genotypes                                |
-| [Estuary Signal Lab](https://github.com/DanielBarletta81/estuary-signal-lab) | Simulated monitoring events, WebSocket data flow, multi-station views and exploratory environmental dashboards                                                | **Educational simulation**, not live monitoring or validated ecological risk assessment                                                      |
-| [Tethys Discovery](https://github.com/DanielBarletta81/tethysdiscovery)      | Interactive educational activities spanning tides, fish passages, hatchery operations and oyster habitats                                                     | **Educational website and games**; fictional setting with real-science learning content                                                      |
-| [World of Tethys](https://github.com/DanielBarletta81/world-of-tethys-2026)  | Next.js platform, headless content integration, world exploration and interactive storytelling                                                                | **Active content platform**; some systems are under development                                                                              |
-| [BuildBoard](https://github.com/DanielBarletta81/buildboard)                 | TypeScript/Next.js visual planning for materials, tools, safety and build sequences                                                                           | **Prototype using sample project data**                                                                                                      |
+## Education and interactive storytelling
+
+- [Tethys Discovery](https://tethysdiscovery.com) — environmental learning activities in a fictional setting. Source repository is private; public-site availability and release parity need separate verification.
+- [World of Tethys](https://worldoftethys.com) — an evolving narrative and exploration platform. Source repository is private; not every development feature is a verified public release.
+- [Estuary Signal Lab](https://github.com/DanielBarletta81/estuary-signal-lab) — educational simulation, not live environmental monitoring.
+- [BuildBoard](https://github.com/DanielBarletta81/buildboard) — a planning prototype connecting construction experience with interactive software.
 
 ## How I work
 
-- **Evidence first:** distinguish measured observations from simulations, missing values from zeros, and descriptions from scientific conclusions.
-- **Full-stack implementation:** React, Next.js, TypeScript/JavaScript, Node.js, Express, APIs, data transformations, Git and automated tests.
-- **Research-to-interface translation:** turn complex subject matter into approachable interactions, while documenting assumptions, limitations and uncertainty.
-- **AI-assisted engineering with verification:** use coding agents for implementation and investigation, then review diffs, check scientific assumptions, run tests and document decisions.
-- **Learning across disciplines:** draw on field sampling, laboratory methods and teaching experience when collaborating on new scientific problems.
+- Follow observations through collection, parsing, validation, storage, and explanation.
+- Distinguish measured data from synthetic examples, missing values from zeros, and observations from conclusions.
+- Build with JavaScript/TypeScript, React, Next.js, Node.js/Express, APIs, SQL/SQLite, and Git.
+- Use AI-assisted implementation with code review, tests, and explicit limits on what has been verified.
+- Explain technical decisions to scientific, educational, and public audiences.
 
-## Current focus
+I am seeking paid work where scientific understanding, software, troubleshooting, and clear communication are useful together. The projects here are independent work; their descriptions do not imply paid client engagements or professional software-company tenure.
 
-I'm strengthening the reliability and accessibility of NOAA Signals Lab, developing interactive tools for biological and environmental education, and documenting the engineering decisions behind each project.
-
-**Explore:** [GitHub repositories](https://github.com/DanielBarletta81?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/daniel-barletta81) · [Author and portfolio website](https://dcbarletta.com)
+[Author and portfolio website](https://dcbarletta.com) · [LinkedIn](https://www.linkedin.com/in/daniel-barletta81)
